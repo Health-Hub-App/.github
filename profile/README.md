@@ -33,9 +33,5 @@ Static websites are hosted on GitHub where possible, making everything hosted th
 
 There is no disaster recovery, but there are plans to use kubernetes in the future, or to use a hosting provider, idk, we can do whatever since everything is dockerised.
 
-## Development Philosophy
-- Don't get sucked in by vendor lock-in
-- Develop what you need, and quickly
-
 ## Business
 HealthHub App is a registered UK limited company.
