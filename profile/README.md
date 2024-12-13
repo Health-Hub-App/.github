@@ -26,7 +26,7 @@ This is a static html/css/js site hosted on GitHub, using bootstrap. It features
 
 ### Domains
 - The _mealcoach.net_ domain is owned by CosmoTown, using CosmoTown nameservers
-- The _healthhub.business_ is owned by NameCheap, using NameCheap nameservers. _domain soon to be replaced_
+- The _healthhub.business_ is owned by GoDaddy, using GoDaddy nameservers. _domain soon to be replaced_
 
 ### Hosting Infastructure
 Static websites are hosted on GitHub where possible, making everything hosted there public domain. Everything else is to be hosted on a VPS in my shed, running docker, behind nginx, in an unraid instance.
