@@ -7,7 +7,7 @@ Welcome!
 The HealtHub ecosystem consists of many services, all working in beautiful harmony :)
 
 ### The MealCoach App
-The MealCoach app itself is a relatively simple Flutter app that compiles for Apple and Android, it has many features that you can check out [on the repo](https://github.com/Health-Hub-App/mealcoach-app).
+The MealCoach app is a Flutter app for Apple and Android, it has many features that you can check out [on the repo](https://github.com/Health-Hub-App/mealcoach-app).
 
 It interfaces with the MealCoach API to handle user data and AI communication, which can be found below.
 
